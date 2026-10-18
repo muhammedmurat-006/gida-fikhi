@@ -1,69 +1,91 @@
-# Konu 1: Hanefî Mezhebinde Gıda Katkı Maddelerinin İstihâle ve İstihlâk Açısından Değerlendirilmesi
+# Konu 2: Etil Alkol İçeren Gıdaların Hanefî Fıkhı Açısından Değerlendirilmesi: Kaynak, Oluşum Süreci ve Kullanım Amacı
 
-## 1. Araştırma başlığı
+1. Araştırma başlığı
 
-Hanefî Mezhebinde Gıda Katkı Maddelerinin İstihâle ve İstihlâk Açısından Değerlendirilmesi
+Etil Alkol İçeren Gıdaların Hanefî Fıkhı Açısından Değerlendirilmesi: Kaynak, Oluşum Süreci ve Kullanım Amacı
 
-## 2. Konu ve önem
+2. Konu ve önem
 
-Gıda katkı maddeleri, ürünlerin görünüşü, dayanıklılığı, tat ve aromasını düzenleyen ancak üretim sürecinde doğrudan besin niteliği üzerinde etkili unsurlardır. Bu maddelerin kaynakları ve kimyasal dönüşümleri, fıkhî olarak helal-haram sınırını belirleyen kavramlarla doğrudan ilişkilidir.
+Etil alkolün gıda ürünlerinde bulunma şekli—ürüne dışarıdan ilave edilmesi, fermantasyon sonucu oluşması veya üretim sırasında iz miktar olarak kalması—fıkhî değerlendirmede farklı sonuçlar doğurabilir. Bu konu, tüketici bilinci, helal sertifikasyon uygulamaları ve üretim süreçlerinin şeffaflığı bakımından önemlidir.
 
-## 3. Problem cümlesi
+3. Problem cümlesi
 
-Gıda katkı maddelerinin kökeni, üretim süreci ve özünde meydana gelen dönüşüm, Hanefî mezhebi bağlamında hangi fıkhî ölçütlerle değerlendirilmeli ve bu değerlendirme çağdaş gıda endüstrisine nasıl uyarlanmalıdır?
+Gıdalarda bulunan etil alkolün kaynağı, miktarı ve işlevi Hanefî mezhebi çerçevesinde nasıl değerlendirilmeli; dışarıdan eklenen alkol ile fermantasyon sonucu oluşan alkol arasında fıkhî bakımdan nasıl bir ayrım yapılmalıdır?
 
-## 4. Amaç ve gerekçe
+4. Amaç ve gerekçe
 
-Bu araştırma, katkı maddelerinin hem fıkhî hem teknik boyutunu birlikte ele alarak istihâle, istihlâk, necaset ve zarar kavramlarının çağdaş gıda kullanımına etkisini incelemeyi amaçlar.
+Araştırma, hamr, sarhoş ediciler ve içecek hükümleri bağlamında Hanefî literatürü inceleyerek, çağdaş gıda ürünlerindeki alkolün niteliğini tespit etmeyi ve fıkhî kriterleri netleştirmeyi amaçlar.
 
-## 5. Araştırma soruları
+5. Araştırma soruları
 
-1. Gıda katkı maddeleri hangi türlerden oluşur?
-2. Klasik Hanefî kaynaklarında istihâle ve istihlâk kavramları nasıl kullanılmaktadır?
-3. Jelatin, gliserin ve enzimler gibi örnekler için fıkhî yaklaşım nasıl farklılaşır?
-4. Kimyasal dönüşümün helal-haram değerlendirmesine etkisi nedir?
-5. Klasik ve çağdaş yaklaşımlar arasında hangi yöntem farklılıkları ortaya çıkar?
+1. Hanefî fıkhında hamr ve sarhoş edici maddeler nasıl tanımlanır ve hangi ölçütlere göre değerlendirilir?
+2. Fermantasyon sonucu oluşan alkol ile üretimde kullanılan aroma ve çözücü amaçlı alkol aynı mıdır?
+3. Miktar ve etkili doz (sarf edilen miktarın sarhoş etme potansiyeli) hükümde belirleyici midir?
+4. İstihlâk ve istihâle açısından alkolün kimyasal dönüşümü hükmü etkiler mi?
+5. Örnek vakalarda (kefir, soya sosu, aroma vericiler) Hanefî yaklaşım nasıl olmalıdır?
 
-## 6. Kapsam ve sınırlılıklar
+6. Kapsam ve sınırlılıklar
 
-Bu çalışma, örnek katkı maddeleri üzerinden kavramsal ve metodolojik bir çerçeve kurar; bütün maddeleri ayrıntılı şekilde inceleme konusu yapmaz. Teknik veriler, fıkhî hükümden ayrı bir şekilde ele alınır.
+- Kapsam: Gıdalarda alkolün kaynak ayrımı, üretim süreçleri ve Hanefî değerlendirme kriterleri.
+- Hariç: Genel alkollü içecekler hukuku (sadece gıda bağlamındaki örnekler incelenecektir).
 
-## 7. Literatür taraması
+7. Literatür taraması (kısa açıklama)
 
-Literatür taraması, klasik Hanefî kaynakları, fıkhî oluşum ve uygulama eserleri ile çağdaş gıda kimyası ve helal araştırmalarını bir araya getirmeyi gerektirir. Gıda katkı maddeleri konusu, hem hukuki hem teknik veri gerektiren bir alan olduğu için disiplinler arası yaklaşım gerektirir.
+Literatür taraması klasik fıkıh metinleri, çağdaş fıkıh çalışmaları, gıda kimyası ve fermantasyon literatürünü kapsayacaktır. Ayrıca helal sertifikasyon raporları ve mevzuat dokümanları incelenecektir.
 
-## 8. Klasik kaynaklar
+8. Literatür değerlendirme tablosu (şablon)
 
-- Klasik Hanefî fürû eserleri ve ilgili gıda, içecek, temizleme ve ibaha bahisleri.
-- Necasetin dönüşümü ve zaruret kavramı bağlamındaki tartışmalar.
-- İstihâle ve istihlâk kavramları açısından tartışılan malzeme sınıflandırmaları.
+| Yazar | Yıl | Eser | Temel mesele | Yöntem | Sonuç | Araştırmaya katkı |
+|---|---:|---|---|---|---|---|
+| (örnek) | doğrulanmadı | doğrulanmadı | alkol ve fermantasyon | teknik + fıkhî değerlendirme | doğrulanmadı | doğrulanmadı |
 
-## 9. Çağdaş kaynaklar
+(Not: Gerçek kaynaklar eklendiğinde tablo güncellenecektir.)
 
-- Gıda katkı maddeleri ve kimyasal bileşimleri üzerine teknik makaleler.
-- Helal gıda standartları ve gıda güvenliği raporları.
-- Fıkhî değerlendirmeler içeren makaleler ve tezler.
+9. Klasik kaynaklar (incelenecek bahisler)
 
-## 10. Yöntem
+- Hamr ve sarhoş edicilerle ilgili Hanefî görüşleri ve bu görüşlerin delilleme biçimleri.
+- Necasetin alkol bağlamındaki uygulamaları ve zarar/maslahat ilkeleri.
 
-Doküman incelemesi, kavramsal analiz ve karşılaştırmalı fıkıh yöntemi birlikte kullanılacaktır.
+10. Çağdaş kaynaklar
 
-## 11. Bölüm planı
+- Fermantasyon mekanizmaları ve gıdadaki alkol tayini üzerine teknik makaleler.
+- Helal sertifikasyon kuruluşlarının alkol politikaları.
+- Fıkhî yayınlar ve makaleler: alkolün gıdadaki yeri üzerine yapılmış çalışmalara erişim sağlanacak.
+
+11. Yöntem
+
+- Klasik metin analizi ve çağdaş fıkıh yorumlarının karşılaştırılması.
+- Teknik literatürden elde edilen verilerle (alkol miktarı, ölçüm yöntemleri) fıkhî ölçütlerin ilişkilendirilmesi.
+- Gerekirse laboratuvar verisi veya teknik raporların incelenmesi.
+
+12. Bölüm planı
 
 1. Giriş
-2. Gıda katkı maddelerinin türleri ve üretim süreçleri
-3. Hanefî metinlerde istihâle ve istihlâk
-4. Somut örnekler: jelatin, gliserin, enzimler
-5. Teknik dönüşüm ve fıkhî hüküm ilişkisi
-6. Sonuç
+2. Hamr ve sarhoş ediciler: Hanefî çerçeve
+3. Fermantasyonun kimyasal ve teknolojik özellikleri
+4. Gıdalarda alkol örnekleri ve vaka çalışmaları (kefir, soya sosu, aroma vericiler)
+5. Ölçüt önerileri: kaynak, miktar, işlev
+6. Sonuç ve öneriler
 
-## 12. Muhtemel katkı
+13. Muhtemel katkı
 
-Bu çalışma, çağdaş gıda katkı maddelerinin helallik ölçütlerini daha sistematik bir şekilde değerlendirme imkânı sunabilir.
+Araştırma, alkolün gıdadaki farklı oluşum biçimlerine göre Hanefî hükümlerin nasıl uygulanacağına dair açık kriterler önererek hem akademik literatüre hem de sertifikasyon pratiklerine katkıda bulunabilir.
 
-## 13. Güçlükler
+14. Karşılaşılabilecek güçlükler
 
-- teknik kaynak erişimi,
-- kimyasal dönüşümün anlaşılması,
-- kaynak doğrulama ve sayfa kontrolü,
-- fıkhî hüküm ile teknik tanım arasındaki ayrım.
+- Teknik verilerin (ör. ürünlerdeki alkol miktarlarının) güvenilir kaynaklarla sağlanması.
+- Farklı üretim hatları ve tariflerin şeffaf olmaması.
+- Klasik metinlerle çağdaş teknik veriler arasında doğrudan ilişki kurma güçlüğü.
+
+15. Başlangıç kaynakçası (geçici)
+
+- Kur'an ve hadis literatürü (ilgili ayet ve hadislerin doğrulanması ve dipnotlandırılması gereklidir).
+- Hanefî fürû eserleri (ayrıntılı pasajlar eklenecek).
+- Gıda kimyası ve fermantasyon üzerine teknik makaleler (doğrulanınca eklenecek).
+
+(Not: Spesifik bibliyografik kayıtlar kaynaklar doğrulandıkça eklenecektir.)
+
+16. Diğer notlar
+
+- Tüm fıkhî tespitler dipnotlarla isnadlanacaktır; dipnot formatı kullanılacaktır.
+- Lütfen mevcut veya öncelikli gördüğünüz örnek ürünlerin listesini paylaşın (ör. kefir markaları, soya sosu türleri) — mümkünse üretim/etiket bilgileri ile birlikte; bu, vaka çalışmaları için gereklidir.
