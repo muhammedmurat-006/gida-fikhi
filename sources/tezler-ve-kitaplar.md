@@ -1,5 +1,16 @@
-# Tezler ve Kitaplar — Taslak
+# Akademik Makaleler
 
-Dosya: `sources/tezler-ve-kitaplar.md`
+Bu dosya, akademik dergi makaleleri ve kitap bölümleri için başlangıç notlarını tutar.
 
-- Tez ve kitap kayıtları burada toplanacaktır.
+## Önerilen ara başlıklar
+
+- gıda fıkhı,
+- helal gıda,
+- food additives,
+- cultivated meat,
+- halal certification,
+- Islamic food jurisprudence.
+
+## Not
+
+Bu dosyada gerçek makale kayıtları eklendikçe bibliyografik başlıklar ve kısa özetler tutulur.

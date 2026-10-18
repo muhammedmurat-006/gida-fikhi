@@ -1,5 +1,13 @@
-# Akademik Makaleler — Taslak
+# Klasik Hanefî Kaynakları
 
-Dosya: `sources/akademik-makaleler.md`
+Bu dosya, araştırma için incelenmesi muhtemel klasik Hanefî kaynakları için başlangıç listesini tutar. Metinlerin tam kopyası olmadığı sürece, kaynakların doğrudan erişim doğrulaması gerekir.
 
-- Bu dosya, taranan makalelerin bibliyografik kayıtları ve özetleri için kullanılacaktır.
+## Başlangıç listesi
+
+- Hanefî fürû eserleri ve özellikle et'ime, eşribe, zebâih ve tahâret bahisleri
+- Fıkıh usulü eserleri üzerinde helal-haram ölçütleri ve kıyas tartışmaları
+- Bu kaynakların, modern gıda sorunlarına uygulanabilirliğini gösteren ilgili bölümler
+
+## Not
+
+Ayrıntılı bibliyografik doğrulama yapıldıkça bu dosya genişletilecektir.

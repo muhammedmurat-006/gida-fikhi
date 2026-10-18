@@ -1,5 +1,15 @@
-# Teknik ve Bilimsel Kaynaklar — Taslak
+# Teknik ve Bilimsel Kaynaklar
 
-Dosya: `sources/teknik-bilimsel-kaynaklar.md`
+Bu dosya, gıda kimyası, biyoteknoloji ve veterinerlik alanındaki teknik kaynakların kontrol listesi için hazırlanmıştır.
 
-- Kimya, gıda mühendisliği ve biyoteknoloji literatürü için başlangıç listesi.
+## Başlangıç alanları
+
+- katkı maddeleri ve kimyasal dönüşüm,
+- fermantasyon ve alkol oluşumu,
+- modern hayvan kesim yöntemleri,
+- üretim sürecinde kullanılan besiyeri ve serum,
+- gıda güvenliği ve güvenilirlik.
+
+## Not
+
+Teknik kaynakları, fıkhî hükümden ayrı ve açıklayıcı bilgi olarak kullanmak gereklidir.
